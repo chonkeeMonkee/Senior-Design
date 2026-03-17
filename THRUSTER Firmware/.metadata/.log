@@ -1,0 +1,48 @@
+!SESSION 2026-02-24 22:45:23.447 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/armandozepeda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/armandozepeda/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-02-24 22:45:57.435
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-24 22:45:57.438
+!MESSAGE Log4j2 initialized with config file /Users/armandozepeda/Desktop/UI_SD/firmware/THRUSTERIntegration/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-24 22:46:05.369
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-02-24 22:50:42.428 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/armandozepeda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/armandozepeda/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-02-24 22:51:02.759
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-24 22:51:02.761
+!MESSAGE Log4j2 initialized with config file /Users/armandozepeda/Desktop/UI_SD/firmware/THRUSTERIntegration/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-24 22:51:07.461
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-02-24 22:52:05.072 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/armandozepeda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/armandozepeda/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-24 22:52:21.149
+!MESSAGE Log4j2 initialized with config file /Users/armandozepeda/Desktop/UI_SD/firmware/THRUSTERIntegration/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-24 22:52:28.169
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-24 22:57:07.330
+!MESSAGE Indexed 'THRUSTER_PCB' (19 sources, 81 headers) in 19 sec: 4,346 declarations; 17,708 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
