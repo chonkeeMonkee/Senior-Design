@@ -7,6 +7,7 @@ python3 launch.py
 UI will begin once the ESP32 connection is established  
 
 **Code Contributions**
+
 Emmanuel Che - Implemented core IMU drivers to extract motion and orientation data
 
 Armando Zepeda - Implemented Motor Control firmware with safety and fault checks for overcurrent protection, preliminary control operator design, and initial CAN/UI integration for motor actuation.
